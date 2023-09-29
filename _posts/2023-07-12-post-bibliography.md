@@ -1,12 +1,15 @@
 ---
 layout: post
-title: a post with bibliography
+title: Hello !
 date: 2023-07-12 09:56:00-0400
-description: an example of a blog post with bibliography
+description: Hello World
 tags: formatting bib
 categories: sample-posts
-giscus_comments: true
+giscus_comments: false
 related_posts: false
-related_publications: einstein1950meaning, einstein1905movement
+related_publications: lebon2023iws
 ---
-This post shows how to add bibliography to simple blog posts. If you would like something more academic, check the 
+
+# Hello World
+
+Currently setting up a portfolio using al-folio template and Jekyll generator.
