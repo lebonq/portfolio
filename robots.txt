@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lebonq.github.io/sitemap.xml
+Sitemap: https://lebonq.github.io/portfolio/sitemap.xml
