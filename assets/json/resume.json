@@ -1,7 +1,7 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Quentin LEBON",
+    "label": "PhD Student at LIGM",
     "image": "",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
@@ -63,12 +63,20 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Beginner"
     }
   ],
   "interests": [],
