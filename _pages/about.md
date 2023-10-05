@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: "PhD student at <a href='https://siteigm.univ-mlv.fr/'>LIGM</a> and <a href='https://www.univ-gustave-eiffel.fr/'>Université Gustave Eiffel</a>.
+
+<br> Supervised by Benjamin Perret, Jean Cousty and Thierry Grandpierre."
 
 profile:
   align: right
@@ -19,8 +21,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Quentin Lebon, currently a PhD student at [LIGM](https://siteigm.univ-mlv.fr/) and [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/) working on **parallelization of morphological algorithms**, in particular on **hierarchy representation of images**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I obtained my master degree in [image science](https://formations.univ-gustave-eiffel.fr/index.php?id=1941&tx_agof_brochure%5Baction%5D=show&tx_agof_brochure%5Bbrochure%5D=419&tx_agof_brochure%5Bcontroller%5D=Brochure&L=1&cHash=9cc7eb4e2d90a95bdc6d2cc86606da5a) at [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/). I also obtained a engineering degree in computer science at [ESIEE Paris](https://www.esiee.fr/).
