@@ -15,7 +15,13 @@
     }
   },
   "work": [
-
+    {
+      "name": "LIGM, Université Gustave Eiffel France",
+      "position": "PhD Student",
+      "startDate": "2023-11-01",
+      "endDate": "2026-10-31",
+      "summary": "Researching on **parallelization of morphological algorithms**, in particular on **hierarchy representation of images**"
+    }
   ],
   "volunteer": [],
   "education": [
