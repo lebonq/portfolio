@@ -20,7 +20,7 @@
       "position": "PhD Student",
       "startDate": "2023-11-01",
       "endDate": "2026-10-31",
-      "summary": "Researching on **parallelization of morphological algorithms**, in particular on **hierarchy representation of images**"
+      "summary": "Researching on parallelization of morphological algorithms, in particular on hierarchy representation of images"
     }
   ],
   "volunteer": [],
@@ -34,7 +34,22 @@
       "endDate": "2023",
       "score": "",
       "courses": [
-        "Computer Science"
+        "Parallel Programming",
+        "Python",
+        "Linux",
+        "Mathematical Morphology",
+        "Algorithmic",
+        "Programming",
+        "Java",
+        "Image Processing",
+        "C++",
+        "Image Analysis",
+        "Programmation orientée objet (POO)",
+        "HTML",
+        "C",
+        "Graph Theory",
+        "SQL",
+        "LaTeX"
       ]
     },
     {
@@ -46,14 +61,30 @@
       "endDate": "2023",
       "score": "",
       "courses": [
-        "GPGPU",
+        "Deep learning",
         "Cuda",
-        "Image Synthesis"
+        "Programmation parallèle",
+        "Cloth Simulation",
+        "OpenGL",
+        "Image Processing",
+        "GPGPU",
+        "C++",
+        "Image Analysis",
+        "OpenGL Shading Language",
+        "C",
+        "LaTeX"
       ]
     }
   ],
   "awards": [
+    {
+      "title": "Best Student Paper",
+      "date": "2023-11-27",
+      "awarder": "CIARP 2023 Comitee",
+      "summary": "Awarded to the best student paper"
+    }
   ],
+
   "certificates": [],
   "publications": [],
   "skills": [],
